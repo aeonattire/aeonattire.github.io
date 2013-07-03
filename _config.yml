@@ -20,7 +20,7 @@ website:          http://www.aeonattire.com/
 url:              http://aeonattire.github.io/
 #
 # 3. About your kickstarter project
-project:
+project: We are funding the development of our Limited edition sunglasses
   #
   # Name of the project
   name:           AEON Sunnies
@@ -29,7 +29,7 @@ project:
   url:            http://google.ca
   #
   # URL of a cover photo of your project
-  cover_image:    http://i2.wp.com/www.aeonattire.com/wp-content/uploads/2013/05/5
+  cover_image:    http://i2.wp.com/www.aeonattire.com/wp-content/uploads/2013/05/5.jpg
   #
   # Use a one-liner to describe your project
   description:    AEON Sunnies are a line of sunglasses inspired by youthful creativity and aged structure
