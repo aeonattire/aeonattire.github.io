@@ -1,8 +1,8 @@
-pygments:         true
-permalink:        pretty
-markdown:         rdiscount
+pygments: true
+permalink: pretty
+markdown: rdiscount
 rdiscount:
-  extensions:     [smart]
+  extensions: [smart]
 
 # ---------
 # Kickstarter specific settings
@@ -10,38 +10,38 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            AEON Sunnies
-theme:            basic
+title: AEON Sunnies
+theme: basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.aeonattire.com/
+website: http://www.aeonattire.com/
 #
 # 2. URL of this page
-url:              http://aeonattire.github.io/
+url: http://aeonattire.github.io/
 #
 # 3. About your kickstarter project
-project: We are funding the development of our Limited edition sunglasses
+project:
   #
   # Name of the project
-  name:           AEON Sunnies
+  name: AEON Sunnies
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://google.ca
+  url: http://kck.st/12bbLkw
   #
   # URL of a cover photo of your project
-  cover_image:    http://www.collegemagazine.com/userFiles/FCK/articles/3691/images/sand-sunglasses.jpg
+  cover_image: http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    AEON Sunnies are a line of sunglasses inspired by youthful creativity and aged structure
+  description: AEON Sunnies are a line of sunglasses inspired by youthful creativity and aged structure
 #
 # 4. Your Twitter handle
-twitter_handle:   AEONAttire
+twitter_handle: AEONAttire
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 34283077-1
 #
 # 6. Welcome text, add <br /> to break lines
-welcome_text:     |
+welcome_text: |
   This is the AEON Attire team greeting from Toronto. <br />
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Indiegogo,
