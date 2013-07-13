@@ -20,7 +20,7 @@ $(document).ready(function() {
   });
 
   $("#tweet").click(function() {
-    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + "is LIVE!Pledge and get designer shades at over 60% off! We need your help! &via=" + $(this).data("via") + "&url=";
+    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " is now on Indiegogo!Pledge today to get designer shades at over 60% off. Love em'!&via=" + $(this).data("via") + "&url=";
     window.open(sharer + $(this).data("url"), 'sharer', 'width=626,height=436,top=200,left=200');
   });
 
