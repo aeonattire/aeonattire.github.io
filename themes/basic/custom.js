@@ -20,7 +20,7 @@ $(document).ready(function() {
   });
 
   $("#tweet").click(function() {
-    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " are now on Indiegogo!Pledge today to get designer hades at over 60% off. Love em'&via=" + $(this).data("via") + "&url="; 
++    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " are now on Indiegogo!&via=" + $(this).data("via") + "&url=";  + $(this).data("via") + "&url="; 
     window.open(sharer + $(this).data("url"), 'sharer', 'width=626,height=436,top=200,left=200');
   });
 
