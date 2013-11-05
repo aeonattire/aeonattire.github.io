@@ -23,16 +23,16 @@ url: http://aeonattire.github.io/
 project:
   #
   # Name of the project
-  name: AEON Sunnies
+  name: AEON Touchpoint Gloves
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url: http://goo.gl/o9cmk  
   # URL of a cover photo of your project
-  cover_image: http://www.aeonattire.com/wp-content/uploads/2013/07/glasses-collage.png
+  cover_image: http://www.aeonattire.com/wp-content/uploads/2013/11/test_000001.png
   
   #
   # Use a one-liner to describe your project
-  description: AEON Sunnies are game-changing sunglasses that combine designer quality with an unprecedented price point
+  description: AEON Attire: Finally Leather Gloves as Smart as your Phone
 #
 # 4. Your Twitter handle
 twitter_handle: AEONAttire
